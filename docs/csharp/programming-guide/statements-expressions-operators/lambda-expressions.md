@@ -17,7 +17,7 @@ ms.locfileid: "83761832"
 ---
 # <a name="lambda-expressions-c-programming-guide"></a>Lambda 表达式（C# 编程指南）
 
-“Lambda 表达式”是采用以下任意一种形式的表达式：
+“Lambda 表达式”有如下两种形式：
 
 - [表达式 lambda](#expression-lambdas)，表达式为其主体：
 
